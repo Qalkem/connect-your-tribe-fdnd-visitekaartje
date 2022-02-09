@@ -2,12 +2,12 @@
 
 # fdnd-api
 
-# Analyse 
+# Analysis  
 
 Mijn verwachting is om  door middel van HTML,CSS en JavaScript   mijn visitekaartje 
 te loopen door de API van fdnd tribe. 
 
-# Ontwerp 
+# Design
 
 <table>
   <tr>
@@ -28,11 +28,13 @@ te loopen door de API van fdnd tribe.
   <tr>     <td valign="top"><img src="screenshots/Screenshot_1582745139.png"></td> </tr>
   </table>
   
-  # Bouwen 
+  # Build 
   
-  # Integreren 
+  # analyse
+
+  # Integrate
   
-  # Testen 
+  # Test 
 
 [![JavaScript Style Guide][javascript-style-guide-badge]][standard]
 
