@@ -27,6 +27,12 @@ te loopen door de API van fdnd tribe.
   
   <tr>     <td valign="top"><img src="screenshots/Screenshot_1582745139.png"></td> </tr>
   </table>
+  
+  # Bouwen 
+  
+  # Integreren 
+  
+  # Testen 
 
 [![JavaScript Style Guide][javascript-style-guide-badge]][standard]
 
