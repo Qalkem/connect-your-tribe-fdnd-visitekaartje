@@ -1,33 +1,43 @@
 > _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+# fdnd-api
 
-## Inhoudsopgave
+# Analyse 
 
-  * [Beschrijving](#beschrijving)
-  * [Kenmerken](#kenmerken)
-  * [Installatie](#installatie)
-  * [Gebruik](#gebruik)
-  * [Bronnen](#bronnen)
-  * [Licentie](#licentie)
+Mijn verwachting is om  door middel van HTML,CSS en JavaScript   mijn visitekaartje 
+te loopen door de API van fdnd tribe. 
 
-## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+# Ontwerp 
 
-## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+<table>
+  <tr>
+    <td>Divergeren</td>
+  
+  </tr>
+  <tr>
+    <td valign="top"><img src="screenshots/Screenshot_1582745092.png"></td>
+    <td valign="top"><img src="screenshots/Screenshot_1582745125.png"></td>
+    <td valign="top"><img src="screenshots/Screenshot_1582745139.png"></td>
+  </tr>
+ </table>
+ 
+ <table>
+  <tr> <td> Convergeren</td> 
+  </tr> 
+  
+  <tr>     <td valign="top"><img src="screenshots/Screenshot_1582745139.png"></td> </tr>
+  </table>
 
-## Installatie
+[![JavaScript Style Guide][javascript-style-guide-badge]][standard]
 
-## Gebruik
+It's an API used by FDND.
 
-## Bronnen
+## License
 
-## Licentie
+[MIT](LICENSE) @ [FDND][fdnd]
 
-![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
+<!-- Definitions -->
 
-This work is licensed under [GNU GPLv3](./LICENSE).
+[fdnd]: https://fdnd.nl
+[javascript-style-guide-badge]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg
+[standard]: https://standardjs.com/
