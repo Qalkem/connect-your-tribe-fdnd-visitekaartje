@@ -18,8 +18,8 @@ use HTML,CSS and JavaScript for the redesign of my buisness card.
   
   </tr>
   <tr>
-    <td valign="top"><img src="screenshots/Screenshot_1582745092.png"></td>
-    <td valign="top"><img src="screenshots/Screenshot_1582745125.png"></td>
+    <td valign="top"><img src="/home/jeanroger/Documents/GitHub/connect-your-tribe-fdnd-visitekaartje/IMG_1766.jpg"></td>
+    <td valign="top"><img src="IMG_1767.jpg"></td>
     <td valign="top"><img src="screenshots/Screenshot_1582745139.png"></td>
   </tr>
  </table>
