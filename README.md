@@ -3,10 +3,13 @@
 # fdnd-api
 
 # Analysis  
+My goal is to redesign my business card based on an existing API.
+I am expecting to be able to learn how to use JavaScript to 
+get an API for this assigment. Furthermore I am expecting to 
+use HTML,CSS and JavaScript for the redesign of my buisness card. 
 
-Mijn verwachting is om  door middel van HTML,CSS en JavaScript   mijn visitekaartje 
-te loopen door de API van fdnd tribe. 
 
+ 
 # Design
 
 <table>
