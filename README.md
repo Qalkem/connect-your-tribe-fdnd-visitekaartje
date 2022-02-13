@@ -1,7 +1,8 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=FDND+Visitekaartje+Jean+Rojer;&+Developement)](https://git.io/typing-svg)
 
-
+  <a href="https://github.com/Qalkem" alt="Github" title="Profile">
+    <img src="https://freshidea.com/jonah/app/github-search-results/readme-typing-svg/index.php"/></a>
 # Analysis  
 My goal is to redesign my business card based on an existing API.
 I am expecting to be able to learn how to use JavaScript to 
