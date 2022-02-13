@@ -1,7 +1,4 @@
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=FDND+Visitekaartje+Jean+Rojer;&+Developement)](https://git.io/typing-svg)
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy&color=%23A675F5&center=true&multiline=true&height=250&lines=lunar+eclipse)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=MONOSCAPE&color=%23A675F5&center=true&multiline=true&height=250&lines=FDND+visitekaartje+Jean+Rojer+)](https://git.io/typing-svg)
  
  
   
