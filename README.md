@@ -53,7 +53,7 @@ use HTML,CSS and JavaScript for the redesign of my buisness card.
   
   # Test 
 
-[![JavaScript Style Guide][javascript-style-guide-badge]][standard]
+ 
 
    #Agenda 
    
@@ -63,6 +63,10 @@ use HTML,CSS and JavaScript for the redesign of my buisness card.
  
 
 It's an API used by FDND.
+
+# Coding Standard 
+
+[![JavaScript Style Guide][javascript-style-guide-badge]][standard]
 
 ## License
 
