@@ -1,5 +1,5 @@
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Design+&+Developement;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Design;&+Developement)](https://git.io/typing-svg)
 
 
 # Analysis  
