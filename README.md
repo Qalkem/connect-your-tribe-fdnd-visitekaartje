@@ -18,17 +18,19 @@ use HTML,CSS and JavaScript for the redesign of my buisness card.
   
   </tr>
   <tr>
-    <td valign="top"><img src="/home/jeanroger/Documents/GitHub/connect-your-tribe-fdnd-visitekaartje/IMG_1766.jpg"></td>
+    <td valign="top"><img src="IMG_1766.jpg"></td>
     <td valign="top"><img src="IMG_1767.jpg"></td>
-    <td valign="top"><img src="screenshots/Screenshot_1582745139.png"></td>
-  </tr>
+   <td valign="top"><img src="IMG_1768.jpg"></td>
+    <td valign="top"><img src="IMG_1769.jpg"></td>
+      <td valign="top"><img src="IMG_1772.jpg"></td>
  </table>
  
  <table>
   <tr> <td> Convergeren</td> 
-  </tr> 
-  
-  <tr>     <td valign="top"><img src="screenshots/Screenshot_1582745139.png"></td> </tr>
+  </tr>
+  <tr>     <td valign="top"><img src=" "></td> 
+  <td><img src="MG_1770.jpg"></img></td>
+  <td valign="top"><img src="IMG_1771.jpg"></td></tr>
   </table>
   
   # Build 
