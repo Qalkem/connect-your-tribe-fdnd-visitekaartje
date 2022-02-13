@@ -1,6 +1,6 @@
-> _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Design+&+Developement;Second+line+of+text)](https://git.io/typing-svg)
 
-# fdnd-api
 
 # Analysis  
 My goal is to redesign my business card based on an existing API.
