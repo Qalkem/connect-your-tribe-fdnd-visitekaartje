@@ -2,6 +2,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=FDND+Visitekaartje+Jean+Rojer;&+Developement)](https://git.io/typing-svg)
 
 https://user-images.githubusercontent.com/62628408/149836465-b3308125-6da8-40a8-91e6-a1a4afdcd517.gif
+<svg xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url(mystyles.css);
+  </style>
+  <rect .../>
+</svg>
+
     ```
     
     test
