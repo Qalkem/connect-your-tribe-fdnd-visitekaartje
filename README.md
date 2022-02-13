@@ -1,5 +1,5 @@
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=FDND+Visitekaartje;&+Developement)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=FDND+Visitekaartje Jean Rojer;&+Developement)](https://git.io/typing-svg)
 
 
 # Analysis  
