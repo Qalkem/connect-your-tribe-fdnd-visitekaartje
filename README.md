@@ -26,15 +26,16 @@ use HTML,CSS and JavaScript for the redesign of my buisness card.
     <td valign="top"><img src="IMG_1767.jpg"  width="100" height="100"></td>
    <td valign="top"><img src="IMG_1768.jpg" width="100" height="100"></td>
     <td valign="top"><img src="IMG_1769.jpg" width="100" height="100"></td>
-      <td valign="top"><img src="IMG_1772.jpg" width="100" height="100"></td>  
+      <td valign="top"><img src="IMG_1772.jpg" width="100" height="<></td>  
  </table>
  
  <table>
   <tr> <td> Convergeren</td> 
   </tr>
-  <tr>     <td valign="top"><img src=" "></td> 
+  <tr>   
   <td><img src="MG_1770.jpg"  width="100" height="100"></img></td>
-  <td valign="top"><img src="IMG_1771.jpg"  width="100" height="100"></td></tr>
+  <td valign="top"><img src="IMG_1771.jpg"  width="100" height="100"></td>
+  </tr>
   </table>
   
   # Build 
