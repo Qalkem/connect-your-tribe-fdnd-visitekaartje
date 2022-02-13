@@ -1,8 +1,7 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=FDND+Visitekaartje+Jean+Rojer;&+Developement)](https://git.io/typing-svg)
 
-  <a href="https://github.com/Qalkem" alt="Github" title="Profile">
-    <img src="https://freshidea.com/jonah/app/github-search-results/readme-typing-svg/index.php"/></a>
+https://user-images.githubusercontent.com/62628408/149836465-b3308125-6da8-40a8-91e6-a1a4afdcd517.gif
     ```
     
     test
@@ -48,6 +47,13 @@ use HTML,CSS and JavaScript for the redesign of my buisness card.
   # Test 
 
 [![JavaScript Style Guide][javascript-style-guide-badge]][standard]
+
+   #Agenda 
+   
+|  date       |                              Description                                     |time         |             absent               |
+| :---------: | :--------------------------------------------------------------------------: | :-----:     | :---------------------------------: |
+|`07-02-2022` |      Briefing about the redesign of my buisnesscard                          | 09:30-13:00 | `Jean C.M Rojer;` |
+ 
 
 It's an API used by FDND.
 
